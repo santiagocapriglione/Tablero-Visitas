@@ -1,28 +1,27 @@
 {
  "visitas": [
   {
-   "id": "vejemplo1",
-   "fechaVisita": "2026-07-09",
+   "id": "vmrfe23c8",
+   "fechaVisita": "2026-07-10",
    "propiedad": {
-    "direccion": "Riobamba 1234, 5°B",
-    "localidad": "Recoleta",
-    "linkHoughton": "https://pablohoughton.com.ar",
+    "direccion": "Av. San Martín 2729",
+    "localidad": "Florida",
+    "linkHoughton": "",
     "linkTokko": "",
-    "dropbox": "10 Propiedades Generales / Recoleta / Riobamba 1234"
+    "dropbox": "10 Propiedades Generales / Florida / Av. San Martín 2729"
    },
-   "contacto": { "nombre": "Juan Pérez", "telefono": "+5491100000000" },
-   "comentario": "Le gustó mucho el living y la luz. Duda por las expensas. Va a consultarlo con la esposa el fin de semana.",
+   "contacto": { "nombre": "Marta (colega, Rimax)", "telefono": "" },
+   "comentario": "2ª visita. Marta (colega de Rimax) abrió el depto con Graciela y sus hijos Pablo y Celeste. Les resulta una buena unidad y la ven como opción si no avanza la oferta que ya hay por el departamento. Dueño: Alfredo. Buena opción.",
    "resultado": "positiva",
-   "calificacion": 4,
-   "recontactar": "2026-07-11",
+   "calificacion": 3,
+   "recontactar": "2026-07-12",
    "recontactado": false,
-   "calendarEventId": "",
+   "calendarEventId": "5kq6q0fogsrfghu2he0qsanoho",
    "seguimiento": [
-    { "fecha": "2026-07-09", "nota": "Visita realizada. Feedback positivo, duda por expensas." }
+    { "fecha": "2026-07-10", "nota": "2ª visita realizada con Graciela + hijos Pablo y Celeste. Interés condicionado a que no avance la oferta vigente." }
    ],
-   "updatedAt": "2026-07-09T18:00:00.000Z"
+   "updatedAt": "2026-07-10T20:30:30.000Z"
   }
  ],
- "updatedAt": "2026-07-09T18:00:00.000Z",
- "_nota": "VISITA DE EJEMPLO: eliminala cuando cargues las reales. Este archivo lo mantiene Claude a partir de tus audios; el navegador lo lee al abrir la página."
+ "updatedAt": "2026-07-10T20:30:30.000Z"
 }
