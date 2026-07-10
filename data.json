@@ -1,0 +1,28 @@
+{
+ "visitas": [
+  {
+   "id": "vejemplo1",
+   "fechaVisita": "2026-07-09",
+   "propiedad": {
+    "direccion": "Riobamba 1234, 5°B",
+    "localidad": "Recoleta",
+    "linkHoughton": "https://pablohoughton.com.ar",
+    "linkTokko": "",
+    "dropbox": "10 Propiedades Generales / Recoleta / Riobamba 1234"
+   },
+   "contacto": { "nombre": "Juan Pérez", "telefono": "+5491100000000" },
+   "comentario": "Le gustó mucho el living y la luz. Duda por las expensas. Va a consultarlo con la esposa el fin de semana.",
+   "resultado": "positiva",
+   "calificacion": 4,
+   "recontactar": "2026-07-11",
+   "recontactado": false,
+   "calendarEventId": "",
+   "seguimiento": [
+    { "fecha": "2026-07-09", "nota": "Visita realizada. Feedback positivo, duda por expensas." }
+   ],
+   "updatedAt": "2026-07-09T18:00:00.000Z"
+  }
+ ],
+ "updatedAt": "2026-07-09T18:00:00.000Z",
+ "_nota": "VISITA DE EJEMPLO: eliminala cuando cargues las reales. Este archivo lo mantiene Claude a partir de tus audios; el navegador lo lee al abrir la página."
+}
