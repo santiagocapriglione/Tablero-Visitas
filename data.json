@@ -5,23 +5,23 @@
    "fechaVisita": "2026-07-10",
    "propiedad": {
     "direccion": "Pinto 3575, 2°B",
-    "localidad": "",
+    "localidad": "Saavedra, CABA",
     "linkHoughton": "",
     "linkTokko": "",
-    "dropbox": "10 Propiedades Generales / Pinto 3575"
+    "dropbox": "10 Propiedades Generales / Saavedra / Pinto 3575"
    },
-   "contacto": { "nombre": "Ayelén", "telefono": "" },
+   "contacto": { "nombre": "Ayelén", "telefono": "+5491141635428" },
    "comentario": "Vino con su novio. Les gustó mucho, pidieron los planos e iban a evaluar si pueden avanzar. Se les explicó cómo se realiza la venta/cesión. Ya habían reservado un departamento que por un embargo no pudieron comprar, así que están bastante interesados.",
    "resultado": "positiva",
    "calificacion": 4,
-   "recontactar": "2026-07-12",
+   "recontactar": "2026-07-13",
    "recontactado": false,
    "calendarEventId": "dilmqg0h03296be8h2bp6kva8g",
    "seguimiento": [
     { "fecha": "2026-07-10", "nota": "Visita realizada con Ayelén y su novio. Muy interesados (venían de una reserva caída por embargo). Pidieron planos, evalúan avanzar." }
    ],
-   "updatedAt": "2026-07-10T20:28:43.000Z"
+   "updatedAt": "2026-07-10T20:45:00.000Z"
   }
  ],
- "updatedAt": "2026-07-10T20:28:43.000Z"
+ "updatedAt": "2026-07-10T20:45:00.000Z"
 }
