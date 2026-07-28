@@ -10,8 +10,8 @@
     "linkTokko": "",
     "dropbox": "10 Propiedades Generales / Florida / Libertad 2860"
    },
-   "contacto": { "nombre": "Tamara", "telefono": "" },
-   "comentario": "Visita con Tamara y su familia (marido y dos hijos, ~6 y 14). Vieron dos casas en Florida: Libertad 2860 y Agustín Álvarez 2562. Ya habíamos ido a ver Chacabuco / Monasterio hace un tiempo. Viven en Pilar en una casa (lote 20x40) y buscan mudarse a esta zona. Van a ver varias casas más. Plan: escribirles el lunes 27/7 para ver si alguna de estas casas les sirve o si podemos tomar la búsqueda. Email: tamara.zuccala@outlook.com. Falta el teléfono (buscar en WhatsApp).",
+   "contacto": { "nombre": "Tamara", "telefono": "+5491157071958" },
+   "comentario": "Visita con Tamara y su familia (marido y dos hijos, ~6 y 14). Vieron dos casas en Florida: Libertad 2860 y Agustín Álvarez 2562. Ya habíamos ido a ver Chacabuco / Monasterio hace un tiempo. Viven en Pilar en una casa (lote 20x40) y buscan mudarse a esta zona. Van a ver varias casas más. Plan: escribirles el lunes 27/7 para ver si alguna de estas casas les sirve o si podemos tomar la búsqueda. Email: tamara.zuccala@outlook.com. Tel: +5491157071958.",
    "resultado": "neutra",
    "calificacion": 0,
    "recontactar": "2026-07-27",
@@ -20,7 +20,7 @@
    "seguimiento": [
     { "fecha": "2026-07-25", "nota": "Visita a Libertad 2860 y Agustín Álvarez 2562 (Florida) con Tamara y familia. Buscan mudarse desde Pilar. Van a ver más casas. Recontactar el lunes para ver interés / tomar la búsqueda." }
    ],
-   "updatedAt": "2026-07-25T15:10:00.000Z"
+   "updatedAt": "2026-07-25T15:20:00.000Z"
   },
   {
    "id": "vayelen250710",
@@ -45,5 +45,5 @@
    "updatedAt": "2026-07-10T20:45:00.000Z"
   }
  ],
- "updatedAt": "2026-07-25T15:10:00.000Z"
+ "updatedAt": "2026-07-25T15:20:00.000Z"
 }
