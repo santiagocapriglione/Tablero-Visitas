@@ -43,7 +43,29 @@
     { "fecha": "2026-07-10", "nota": "Visita realizada con Ayelén y su novio. Muy interesados (venían de una reserva caída por embargo). Pidieron planos, evalúan avanzar." }
    ],
    "updatedAt": "2026-07-10T20:45:00.000Z"
+  },
+  {
+   "id": "vmatias310726",
+   "fechaVisita": "2026-07-31",
+   "propiedad": {
+    "direccion": "Pinto 3575",
+    "localidad": "Saavedra, CABA",
+    "linkHoughton": "",
+    "linkTokko": "",
+    "dropbox": "10 Propiedades Generales / Saavedra / Pinto 3575"
+   },
+   "contacto": { "nombre": "Matías", "telefono": "" },
+   "comentario": "Visita con Matías, vio el 1° y el 2° piso. Le gustó mucho, pidió los planos. Perfil algo inseguro y dijo que iba a consultar con la madre antes de decidir. Contactarlo sin falta el lunes.",
+   "resultado": "positiva",
+   "calificacion": 4,
+   "recontactar": "2026-08-03",
+   "recontactado": false,
+   "calendarEventId": "40ppcpsepdfjsf2472fb6qsuvs",
+   "seguimiento": [
+    { "fecha": "2026-07-31", "nota": "Visita realizada con Matías. Vio 1° y 2° piso de Pinto 3575, le gustó mucho, pidió planos. Perfil inseguro, consulta con la madre. Recontactar sin falta el lunes 3/8." }
+   ],
+   "updatedAt": "2026-07-31T14:54:00.000Z"
   }
  ],
- "updatedAt": "2026-07-25T15:20:00.000Z"
+ "updatedAt": "2026-07-31T14:54:00.000Z"
 }
