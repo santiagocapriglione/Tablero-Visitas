@@ -32,15 +32,15 @@ body{font-family:var(--bf);background:#DEDAD5;min-height:100vh;color:var(--dk);}
 
 main{max-width:760px;margin:0 auto;padding:14px 14px 60px;}
 
-#stats{display:flex;gap:8px;margin-bottom:14px;}
+#stats,#cStats{display:flex;gap:8px;margin-bottom:14px;}
 .stat{flex:1;background:var(--wh);border-radius:10px;padding:10px 6px;text-align:center;border-bottom:3px solid var(--md);}
 .stat b{display:block;font-size:22px;font-family:'DM Mono',monospace;}
 .stat span{font-size:10px;color:var(--gy);text-transform:uppercase;letter-spacing:.05em;}
 .stat.s-pos{border-bottom-color:var(--ok);}
 .stat.s-rec{border-bottom-color:var(--or);}
 
-#recPanel{background:var(--dk);border-radius:12px;padding:14px;margin-bottom:16px;}
-#recPanel h2{color:var(--or);font-size:12px;text-transform:uppercase;letter-spacing:.08em;margin-bottom:10px;}
+#recPanel,#cPanel{background:var(--dk);border-radius:12px;padding:14px;margin-bottom:16px;}
+#recPanel h2,#cPanel h2{color:var(--or);font-size:12px;text-transform:uppercase;letter-spacing:.08em;margin-bottom:10px;}
 .recItem{background:var(--md);border-radius:9px;padding:10px 12px;margin-bottom:8px;display:flex;align-items:center;gap:10px;}
 .recItem:last-child{margin-bottom:0;}
 .recInfo{flex:1;min-width:0;}
@@ -54,10 +54,10 @@ main{max-width:760px;margin:0 auto;padding:14px 14px 60px;}
 .okBtn:active{color:var(--wh);border-color:var(--wh);}
 #recEmpty{color:var(--gy);font-size:13px;}
 
-#filters{display:flex;gap:6px;margin-bottom:10px;flex-wrap:wrap;}
+#filters,#cFilters{display:flex;gap:6px;margin-bottom:10px;flex-wrap:wrap;}
 .chip{border:1px solid var(--md);background:transparent;color:var(--md);border-radius:20px;padding:6px 13px;font-size:12px;cursor:pointer;font-family:var(--bf);}
 .chip.on{background:var(--dk);color:var(--wh);border-color:var(--dk);}
-#q{width:100%;border:1px solid #C9C4BD;background:var(--wh);border-radius:9px;padding:9px 12px;font-size:14px;margin-bottom:14px;font-family:var(--bf);outline:none;}
+#q,#cq{width:100%;border:1px solid #C9C4BD;background:var(--wh);border-radius:9px;padding:9px 12px;font-size:14px;margin-bottom:14px;font-family:var(--bf);outline:none;}
 
 .prop{background:var(--wh);border-radius:12px;margin-bottom:14px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.06);}
 .propHd{background:var(--lg);padding:11px 14px;border-bottom:1px solid #E4E0DA;}
@@ -89,6 +89,29 @@ main{max-width:760px;margin:0 auto;padding:14px 14px 60px;}
 
 #empty{text-align:center;color:var(--gy);padding:40px 0;font-size:14px;}
 #ft{text-align:center;font-size:10.5px;color:var(--gy);margin-top:24px;font-family:'DM Mono',monospace;}
+
+#tabs{display:flex;gap:4px;margin-bottom:14px;background:var(--wh);border-radius:11px;padding:4px;}
+.tab{flex:1;border:none;background:transparent;color:var(--gy);border-radius:8px;padding:9px 0;font-size:13px;font-weight:600;font-family:var(--bf);cursor:pointer;letter-spacing:.03em;}
+.tab.on{background:var(--dk);color:var(--wh);}
+.stat.s-cal{border-bottom-color:var(--am);}
+
+.ct{background:var(--wh);border-radius:12px;margin-bottom:12px;padding:12px 14px;box-shadow:0 1px 3px rgba(0,0,0,.06);border-left:3px solid var(--md);}
+.ct.p-alta{border-left-color:var(--or);}
+.ct.p-baja{border-left-color:#D8D3CC;}
+.ctTop{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;}
+.ctTop h3{font-size:15.5px;font-weight:600;}
+.ctRel{font-size:12px;color:var(--gy);margin-top:2px;}
+.tags{display:flex;gap:5px;flex-wrap:wrap;margin-top:7px;}
+.tag{font-size:10px;text-transform:uppercase;letter-spacing:.05em;background:var(--lg);color:var(--md);border-radius:5px;padding:3px 8px;font-weight:600;}
+.tag.tm{background:transparent;border:1px solid #E4E0DA;color:var(--gy);text-transform:none;letter-spacing:0;font-weight:400;font-size:11px;}
+.ctNota{font-size:13.5px;line-height:1.45;color:var(--md);margin-top:7px;}
+.ctMeta{display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-top:10px;}
+.since{font-family:'DM Mono',monospace;font-size:11px;color:var(--gy);}
+.since.due{color:var(--am);font-weight:600;}
+.since.late{color:var(--re);font-weight:600;}
+.ctBtns{display:flex;gap:6px;margin-left:auto;}
+.miniBtn{background:transparent;border:1px solid #C9C4BD;color:var(--md);border-radius:8px;padding:6px 10px;font-size:11.5px;cursor:pointer;font-family:var(--bf);text-decoration:none;}
+.miniBtn:active{background:var(--lg);}
 </style>
 </head>
 <body>
@@ -97,16 +120,29 @@ main{max-width:760px;margin:0 auto;padding:14px 14px 60px;}
   <div><h1>Tablero de Visitas</h1><div class="sub">Houghton Propiedades</div></div>
 </div>
 <main>
-  <div id="stats"></div>
-  <div id="recPanel"></div>
-  <div id="filters"></div>
-  <input id="q" type="search" placeholder="Buscar propiedad o contacto…">
-  <div id="list"></div>
+  <div id="tabs">
+    <button class="tab on" id="tabV" onclick="setTab('visitas')">Visitas</button>
+    <button class="tab" id="tabC" onclick="setTab('contactos')">Contactos</button>
+  </div>
+  <section id="vView">
+    <div id="stats"></div>
+    <div id="recPanel"></div>
+    <div id="filters"></div>
+    <input id="q" type="search" placeholder="Buscar propiedad o contacto…">
+    <div id="list"></div>
+  </section>
+  <section id="cView" hidden>
+    <div id="cStats"></div>
+    <div id="cPanel"></div>
+    <div id="cFilters"></div>
+    <input id="cq" type="search" placeholder="Buscar contacto, tema o rubro…">
+    <div id="cList"></div>
+  </section>
   <div id="ft"></div>
 </main>
 <script>
-const LSK='tv_local';
-let DATA={visitas:[]}, FIL='todas', Q='';
+const LSK='tv_local', LSKC='tv_local_c';
+let DATA={visitas:[],contactos:[]}, FIL='todas', Q='', TAB='visitas', CFIL='todos', CQ='';
 
 const hoy=()=>new Date().toISOString().slice(0,10);
 const fmt=d=>{if(!d)return'';const[y,m,dd]=d.split('-');return dd+'/'+m+'/'+y.slice(2);};
@@ -198,8 +234,108 @@ window.markDone=id=>{saveLocal(id,{recontactado:true});render();};
 window.copyDbx=(btn,path)=>{navigator.clipboard.writeText(path).then(()=>{btn.textContent='copiado ✓';setTimeout(()=>btn.textContent='Dropbox ⧉',1500);});};
 document.getElementById('q').addEventListener('input',e=>{Q=e.target.value.trim().toLowerCase();render();});
 
+
+/* ---------- Contactos ---------- */
+const TIPOS=[['flipping','Flipping'],['terrenos','Terrenos'],['desarrollos','Desarrollos'],['pozo','Pozo'],['construccion','Construcción'],['renta','Renta'],['compraventa','Compra-venta'],['oportunidades','Oportunidades'],['captaciones','Captaciones'],['negocios','Otros negocios']];
+const tipoLbl=t=>(TIPOS.find(x=>x[0]===t)||[t,t])[1];
+const addDias=(d,n)=>new Date(new Date(d+'T12:00:00Z').getTime()+n*864e5).toISOString().slice(0,10);
+const diasDesde=d=>d?Math.round((new Date(hoy()+'T12:00:00Z')-new Date(d+'T12:00:00Z'))/864e5):null;
+const waC=(tel,nombre)=>{if(!tel)return null;const t=tel.replace(/[^0-9]/g,'');return 'https://wa.me/'+t+'?text='+encodeURIComponent('Hola '+(nombre||'').split(' ')[0]+'! ¿Cómo andás? Te escribo para ponernos al día y tomar un café.');};
+
+function localMapC(){try{return JSON.parse(localStorage.getItem(LSKC))||{}}catch(e){return{}}}
+function saveLocalC(id,patch){const m=localMapC();m[id]=Object.assign({},m[id]||{},patch,{updatedAt:new Date().toISOString()});localStorage.setItem(LSKC,JSON.stringify(m));}
+function mergedC(){
+  const m=localMapC();
+  return (DATA.contactos||[]).map(c=>{
+    const l=m[c.id];
+    if(l && (!c.updatedAt || l.updatedAt>c.updatedAt)) return Object.assign({},c,l);
+    return c;
+  });
+}
+const proxDe=c=>c.proximoContacto || (c.ultimoContacto?addDias(c.ultimoContacto,c.frecuenciaDias||60):hoy());
+
+function renderC(){
+  const cs=mergedC(), today=hoy();
+  const vencidos=cs.filter(c=>proxDe(c)<today), hoyMas=cs.filter(c=>proxDe(c)<=today);
+  document.getElementById('cStats').innerHTML=
+    '<div class="stat"><b>'+cs.length+'</b><span>Contactos</span></div>'+
+    '<div class="stat s-rec"><b>'+hoyMas.length+'</b><span>A reactivar</span></div>'+
+    '<div class="stat s-cal"><b>'+cs.filter(c=>c.prioridad==='alta').length+'</b><span>Prioridad alta</span></div>';
+
+  const due=hoyMas.slice().sort((a,b)=>proxDe(a)<proxDe(b)?-1:1);
+  let cp='<h2>Para reactivar</h2>';
+  if(!due.length) cp+='<div id="recEmpty">Todos al día ✓</div>';
+  else cp+=due.map(c=>{
+    const dd=diasDesde(c.ultimoContacto), link=waC(c.telefono,c.nombre), late=proxDe(c)<today;
+    const txt=dd===null?'sin contacto registrado':'hace '+dd+' día'+(dd===1?'':'s');
+    return '<div class="recItem"><div class="recInfo"><b>'+esc(c.nombre)+'</b><span>'+esc((c.tipos||[]).map(tipoLbl).join(' · ')||c.relacion||'')+'</span>'+
+      '<span class="recDue'+(late?' late':'')+'">'+txt+'</span></div>'+
+      (link?'<a class="waBtn" href="'+link+'" target="_blank">WhatsApp</a>':'<span class="waBtn dis">sin tel.</span>')+
+      '<button class="okBtn" onclick="contactado(\''+c.id+'\')">✓</button></div>';
+  }).join('');
+  document.getElementById('cPanel').innerHTML=cp;
+
+  const usados=TIPOS.filter(([k])=>cs.some(c=>(c.tipos||[]).includes(k)));
+  document.getElementById('cFilters').innerHTML=
+    [['todos','Todos'],['due','A reactivar']].concat(usados).map(([k,t])=>
+      '<button class="chip'+(CFIL===k?' on':'')+'" onclick="setCFil(\''+k+'\')">'+t+'</button>').join('');
+
+  let fc=cs.filter(c=>{
+    if(CFIL==='due'&&proxDe(c)>today)return false;
+    if(CFIL!=='todos'&&CFIL!=='due'&&!(c.tipos||[]).includes(CFIL))return false;
+    if(CQ){const h=(c.nombre+' '+(c.relacion||'')+' '+(c.notas||'')+' '+(c.temas||[]).join(' ')+' '+(c.tipos||[]).map(tipoLbl).join(' ')).toLowerCase();if(!h.includes(CQ))return false;}
+    return true;
+  }).sort((a,b)=>{
+    const pa=proxDe(a),pb=proxDe(b);
+    if(pa!==pb)return pa<pb?-1:1;
+    const pr={alta:0,media:1,baja:2};
+    return (pr[a.prioridad]??1)-(pr[b.prioridad]??1);
+  });
+
+  const cl=document.getElementById('cList');
+  if(!fc.length){cl.innerHTML='<div id="empty">Sin contactos para este filtro.</div>';return;}
+  cl.innerHTML=fc.map(c=>{
+    const dd=diasDesde(c.ultimoContacto), prox=proxDe(c), late=prox<today, due=prox<=today;
+    const since=dd===null?'sin contacto registrado':'último contacto hace '+dd+' día'+(dd===1?'':'s')+' ('+fmt(c.ultimoContacto)+')';
+    const prx=late?' · vencido, revisar':(due?' · toca ahora':' · próximo '+fmt(prox));
+    const link=waC(c.telefono,c.nombre);
+    const tags=(c.tipos||[]).map(t=>'<span class="tag">'+esc(tipoLbl(t))+'</span>').join('')+
+               (c.temas||[]).filter(t=>!(c.tipos||[]).some(k=>k===t.toLowerCase()||tipoLbl(k).toLowerCase()===t.toLowerCase())).map(t=>'<span class="tag tm">'+esc(t)+'</span>').join('');
+    const ints=(c.interacciones||[]).slice().sort((a,b)=>a.fecha<b.fecha?1:-1);
+    const seg=ints.length?'<div class="seg">'+ints.map(i=>'<div><b>'+fmt(i.fecha)+'</b>'+esc((i.canal?'['+i.canal+'] ':'')+i.nota)+'</div>').join('')+'</div>':'';
+    return '<div class="ct p-'+esc(c.prioridad||'media')+'">'+
+      '<div class="ctTop"><h3>'+esc(c.nombre)+'</h3></div>'+
+      (c.relacion?'<div class="ctRel">'+esc(c.relacion)+'</div>':'')+
+      (tags?'<div class="tags">'+tags+'</div>':'')+
+      (c.notas?'<div class="ctNota">'+esc(c.notas)+'</div>':'')+seg+
+      '<div class="ctMeta"><span class="since'+(late?' late':(due?' due':''))+'">'+esc(since)+prx+'</span>'+
+      '<span class="ctBtns">'+
+        (link?'<a class="waBtn" style="padding:6px 10px" href="'+link+'" target="_blank">WhatsApp</a>':'')+
+        (c.telefono?'':'<span class="since">sin tel.</span>')+
+        '<button class="miniBtn" onclick="contactado(\''+c.id+'\')">✓ hablé hoy</button>'+
+      '</span></div></div>';
+  }).join('');
+}
+window.setCFil=k=>{CFIL=k;renderC();};
+window.contactado=id=>{
+  const c=mergedC().find(x=>x.id===id)||{};
+  saveLocalC(id,{ultimoContacto:hoy(),proximoContacto:addDias(hoy(),c.frecuenciaDias||60)});
+  renderC();
+};
+window.setTab=t=>{
+  TAB=t;
+  document.getElementById('tabV').classList.toggle('on',t==='visitas');
+  document.getElementById('tabC').classList.toggle('on',t==='contactos');
+  document.getElementById('vView').hidden=t!=='visitas';
+  document.getElementById('cView').hidden=t!=='contactos';
+  try{localStorage.setItem('tv_tab',t)}catch(e){}
+  t==='visitas'?render():renderC();
+};
+document.getElementById('cq').addEventListener('input',e=>{CQ=e.target.value.trim().toLowerCase();renderC();});
+
 fetch('data.json?t='+Date.now()).then(r=>r.json()).then(d=>{
-  DATA=d;render();
+  DATA=d;render();renderC();
+  try{const t=localStorage.getItem('tv_tab');if(t&&t!=='visitas')setTab(t);}catch(e){}
   document.getElementById('ft').textContent='actualizado '+(d.updatedAt?new Date(d.updatedAt).toLocaleString('es-AR',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'}):'—');
 }).catch(()=>{document.getElementById('list').innerHTML='<div id="empty">No se pudo cargar data.json</div>';});
 </script>

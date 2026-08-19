@@ -10,7 +10,10 @@
     "linkTokko": "",
     "dropbox": "10 Propiedades Generales / Florida / Libertad 2860"
    },
-   "contacto": { "nombre": "Tamara", "telefono": "+5491157071958" },
+   "contacto": {
+    "nombre": "Tamara",
+    "telefono": "+5491157071958"
+   },
    "comentario": "Visita con Tamara y su familia (marido y dos hijos, ~6 y 14). Vieron dos casas en Florida: Libertad 2860 y Agustín Álvarez 2562. Ya habíamos ido a ver Chacabuco / Monasterio hace un tiempo. Viven en Pilar en una casa (lote 20x40) y buscan mudarse a esta zona. Van a ver varias casas más. Plan: escribirles el lunes 27/7 para ver si alguna de estas casas les sirve o si podemos tomar la búsqueda. Email: tamara.zuccala@outlook.com. Tel: +5491157071958.",
    "resultado": "neutra",
    "calificacion": 0,
@@ -18,7 +21,10 @@
    "recontactado": false,
    "calendarEventId": "o920b4jajo6848m7d2573m2nts",
    "seguimiento": [
-    { "fecha": "2026-07-25", "nota": "Visita a Libertad 2860 y Agustín Álvarez 2562 (Florida) con Tamara y familia. Buscan mudarse desde Pilar. Van a ver más casas. Recontactar el lunes para ver interés / tomar la búsqueda." }
+    {
+     "fecha": "2026-07-25",
+     "nota": "Visita a Libertad 2860 y Agustín Álvarez 2562 (Florida) con Tamara y familia. Buscan mudarse desde Pilar. Van a ver más casas. Recontactar el lunes para ver interés / tomar la búsqueda."
+    }
    ],
    "updatedAt": "2026-07-25T15:20:00.000Z"
   },
@@ -32,7 +38,10 @@
     "linkTokko": "",
     "dropbox": "10 Propiedades Generales / Saavedra / Pinto 3575"
    },
-   "contacto": { "nombre": "Ayelén", "telefono": "+5491141635428" },
+   "contacto": {
+    "nombre": "Ayelén",
+    "telefono": "+5491141635428"
+   },
    "comentario": "Vino con su novio. Les gustó mucho, pidieron los planos e iban a evaluar si pueden avanzar. Se les explicó cómo se realiza la venta/cesión. Ya habían reservado un departamento que por un embargo no pudieron comprar, así que están bastante interesados.",
    "resultado": "positiva",
    "calificacion": 4,
@@ -40,7 +49,10 @@
    "recontactado": false,
    "calendarEventId": "dilmqg0h03296be8h2bp6kva8g",
    "seguimiento": [
-    { "fecha": "2026-07-10", "nota": "Visita realizada con Ayelén y su novio. Muy interesados (venían de una reserva caída por embargo). Pidieron planos, evalúan avanzar." }
+    {
+     "fecha": "2026-07-10",
+     "nota": "Visita realizada con Ayelén y su novio. Muy interesados (venían de una reserva caída por embargo). Pidieron planos, evalúan avanzar."
+    }
    ],
    "updatedAt": "2026-07-10T20:45:00.000Z"
   },
@@ -54,7 +66,10 @@
     "linkTokko": "",
     "dropbox": "10 Propiedades Generales / Saavedra / Pinto 3575"
    },
-   "contacto": { "nombre": "Matías", "telefono": "" },
+   "contacto": {
+    "nombre": "Matías",
+    "telefono": ""
+   },
    "comentario": "Visita con Matías, vio el 1° y el 2° piso. Le gustó mucho, pidió los planos. Perfil algo inseguro y dijo que iba a consultar con la madre antes de decidir. Contactarlo sin falta el lunes.",
    "resultado": "positiva",
    "calificacion": 4,
@@ -62,7 +77,10 @@
    "recontactado": false,
    "calendarEventId": "40ppcpsepdfjsf2472fb6qsuvs",
    "seguimiento": [
-    { "fecha": "2026-07-31", "nota": "Visita realizada con Matías. Vio 1° y 2° piso de Pinto 3575, le gustó mucho, pidió planos. Perfil inseguro, consulta con la madre. Recontactar sin falta el lunes 3/8." }
+    {
+     "fecha": "2026-07-31",
+     "nota": "Visita realizada con Matías. Vio 1° y 2° piso de Pinto 3575, le gustó mucho, pidió planos. Perfil inseguro, consulta con la madre. Recontactar sin falta el lunes 3/8."
+    }
    ],
    "updatedAt": "2026-07-31T14:54:00.000Z"
   },
@@ -76,7 +94,10 @@
     "linkTokko": "",
     "dropbox": "10 Propiedades Generales / Saavedra / Pinto 3575"
    },
-   "contacto": { "nombre": "Natacha", "telefono": "+5491159967225" },
+   "contacto": {
+    "nombre": "Natacha",
+    "telefono": "+5491159967225"
+   },
    "comentario": "Visita al 2° piso con Natacha, su pareja y unos amigos. Parece que les gustó. Plan: escribirles el lunes 17/8 (feriado) o martes 18/8 para empujar una segunda visita y avanzar hacia la reserva.",
    "resultado": "positiva",
    "calificacion": 4,
@@ -84,10 +105,285 @@
    "recontactado": false,
    "calendarEventId": "1qopmb5v6ihbml3isbhfhd0ebk",
    "seguimiento": [
-    { "fecha": "2026-08-15", "nota": "Visita realizada con Natacha, su pareja y amigos al 2° de Pinto 3575. Les gustó. Recontactar para segunda visita + reserva (lunes 17/8 es feriado, recordatorio armado para el martes 18/8 a las 10)." }
+    {
+     "fecha": "2026-08-15",
+     "nota": "Visita realizada con Natacha, su pareja y amigos al 2° de Pinto 3575. Les gustó. Recontactar para segunda visita + reserva (lunes 17/8 es feriado, recordatorio armado para el martes 18/8 a las 10)."
+    }
    ],
    "updatedAt": "2026-08-15T17:30:00.000Z"
   }
  ],
- "updatedAt": "2026-08-15T17:30:00.000Z"
+ "contactos": [
+  {
+   "id": "cpaula190826",
+   "nombre": "Paula",
+   "telefono": "",
+   "email": "",
+   "relacion": "Mamá de Vito (compañero) · esposa de Martín · arquitecta",
+   "tipos": [
+    "flipping",
+    "construccion"
+   ],
+   "prioridad": "alta",
+   "temas": [
+    "flipping",
+    "reciclado de unidades",
+    "obra"
+   ],
+   "notas": "Arquitecta, está haciendo flipping por su cuenta. Cruce casual el 19/8. Buen perfil para llevarle unidades a reciclar y para sumarla como socia/ejecutora de obra en flips propios.",
+   "ultimoContacto": "2026-08-19",
+   "frecuenciaDias": 45,
+   "proximoContacto": "2026-10-03",
+   "interacciones": [
+    {
+     "fecha": "2026-08-19",
+     "canal": "encuentro",
+     "nota": "Me la crucé. Está haciendo flipping. Pendiente: pedirle el teléfono y proponerle un café para ver qué está buscando y mostrarle unidades para reciclar."
+    }
+   ],
+   "updatedAt": "2026-08-19T12:00:00.000Z"
+  },
+  {
+   "id": "cnachosarcchi190826",
+   "nombre": "Nacho Sarcchi",
+   "telefono": "",
+   "email": "",
+   "relacion": "Contacto de negocios · exportador",
+   "tipos": [
+    "negocios",
+    "captaciones"
+   ],
+   "prioridad": "alta",
+   "temas": [
+    "exportación",
+    "Cachafaz",
+    "captaciones para vender"
+   ],
+   "notas": "Me dio bastantes propiedades/cosas para vender. Es exportador (rubro alimentos — confirmar producto exacto). Idea concreta: proponerle exportar Cachafaz. Doble vía: captaciones para vender + negocio de exportación.",
+   "ultimoContacto": "2026-08-19",
+   "frecuenciaDias": 30,
+   "proximoContacto": "2026-09-18",
+   "interacciones": [
+    {
+     "fecha": "2026-08-19",
+     "canal": "encuentro",
+     "nota": "Cruce. Me pasó varias cosas para vender. Pendiente: ordenar el listado de lo que me dio y plantearle la exportación de Cachafaz."
+    }
+   ],
+   "updatedAt": "2026-08-19T12:00:00.000Z"
+  },
+  {
+   "id": "cdaniarq190826",
+   "nombre": "Dani (arquitecto)",
+   "telefono": "",
+   "email": "",
+   "relacion": "Hermano de una amiga de Juli · arquitecto",
+   "tipos": [
+    "terrenos",
+    "desarrollos",
+    "construccion"
+   ],
+   "prioridad": "alta",
+   "temas": [
+    "terrenos",
+    "desarrollos"
+   ],
+   "notas": "Busca terrenos para desarrollar. Confirmar zonas y m² objetivo, y si compra él o para un tercero/inversores.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 45,
+   "proximoContacto": "2026-08-19",
+   "interacciones": [
+    {
+     "fecha": "2026-08-19",
+     "canal": "nota",
+     "nota": "Alta en la base. Busca terrenos. Pendiente: conseguir teléfono vía Juli y mandarle los terrenos en cartera."
+    }
+   ],
+   "updatedAt": "2026-08-19T12:00:00.000Z"
+  },
+  {
+   "id": "cmatigoni190826",
+   "nombre": "Mati Goñi",
+   "telefono": "",
+   "email": "",
+   "relacion": "Contacto personal",
+   "tipos": [
+    "terrenos",
+    "desarrollos"
+   ],
+   "prioridad": "alta",
+   "temas": [
+    "terrenos"
+   ],
+   "notas": "Busca terrenos. Definir zona, presupuesto y si va por incidencia o por m² vendible.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 45,
+   "proximoContacto": "2026-08-19",
+   "interacciones": [
+    {
+     "fecha": "2026-08-19",
+     "canal": "nota",
+     "nota": "Alta en la base. Busca terrenos. Pendiente: mandarle la cartera de terrenos."
+    }
+   ],
+   "updatedAt": "2026-08-19T12:00:00.000Z"
+  },
+  {
+   "id": "cgabrielsaidman190826",
+   "nombre": "Gabriel Saidman",
+   "telefono": "",
+   "email": "",
+   "relacion": "Inversor",
+   "tipos": [
+    "oportunidades",
+    "flipping",
+    "compraventa"
+   ],
+   "prioridad": "alta",
+   "temas": [
+    "oportunidades",
+    "compras por debajo de mercado"
+   ],
+   "notas": "Siempre está buscando oportunidades. Es el contacto para mandarle todo lo que aparezca por debajo de valor de mercado, sin filtro de tipología.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 30,
+   "proximoContacto": "2026-08-19",
+   "interacciones": [
+    {
+     "fecha": "2026-08-19",
+     "canal": "nota",
+     "nota": "Alta en la base. Mandarle oportunidades apenas aparezcan."
+    }
+   ],
+   "updatedAt": "2026-08-19T12:00:00.000Z"
+  },
+  {
+   "id": "cgonzachavez190826",
+   "nombre": "Gonza Chávez",
+   "telefono": "",
+   "email": "",
+   "relacion": "Contacto personal",
+   "tipos": [
+    "renta",
+    "compraventa"
+   ],
+   "prioridad": "media",
+   "temas": [
+    "renta",
+    "departamentos"
+   ],
+   "notas": "Estuvo por comprar un departamento para renta y no cerró. Retomar: ver si sigue con la idea, qué presupuesto maneja y mostrarle unidades con buena relación renta/precio.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-08-19",
+   "interacciones": [
+    {
+     "fecha": "2026-08-19",
+     "canal": "nota",
+     "nota": "Alta en la base. Estuvo por comprar depto para renta. Pendiente: retomar la charla."
+    }
+   ],
+   "updatedAt": "2026-08-19T12:00:00.000Z"
+  },
+  {
+   "id": "cdanielkrakobsky190826",
+   "nombre": "Daniel Krakobsky",
+   "telefono": "",
+   "email": "",
+   "relacion": "Inversor",
+   "tipos": [
+    "flipping"
+   ],
+   "prioridad": "alta",
+   "temas": [
+    "flipping",
+    "unidades para reciclar"
+   ],
+   "notas": "Hace flipping. Mandarle unidades para reciclar y revender; consultarle también por obras que esté haciendo hoy.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 45,
+   "proximoContacto": "2026-08-19",
+   "interacciones": [
+    {
+     "fecha": "2026-08-19",
+     "canal": "nota",
+     "nota": "Alta en la base. Hace flipping. Pendiente: mandarle unidades para reciclar."
+    }
+   ],
+   "updatedAt": "2026-08-19T12:00:00.000Z"
+  },
+  {
+   "id": "ccharlysuliansky190826",
+   "nombre": "Charly Suliansky",
+   "telefono": "",
+   "email": "",
+   "relacion": "Contacto personal",
+   "tipos": [
+    "oportunidades"
+   ],
+   "prioridad": "media",
+   "temas": [],
+   "notas": "Alta preliminar — completar rubro de interés, tipo de inversión y datos de contacto en el próximo repaso.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-08-19",
+   "interacciones": [
+    {
+     "fecha": "2026-08-19",
+     "canal": "nota",
+     "nota": "Alta en la base para no perderlo. Falta completar perfil e interés."
+    }
+   ],
+   "updatedAt": "2026-08-19T12:00:00.000Z"
+  },
+  {
+   "id": "calangoldfarb190826",
+   "nombre": "Alan Goldfarb",
+   "telefono": "",
+   "email": "",
+   "relacion": "Contacto personal",
+   "tipos": [
+    "oportunidades"
+   ],
+   "prioridad": "media",
+   "temas": [],
+   "notas": "Alta preliminar — completar rubro de interés, tipo de inversión y datos de contacto en el próximo repaso.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-08-19",
+   "interacciones": [
+    {
+     "fecha": "2026-08-19",
+     "canal": "nota",
+     "nota": "Alta en la base para no perderlo. Falta completar perfil e interés."
+    }
+   ],
+   "updatedAt": "2026-08-19T12:00:00.000Z"
+  },
+  {
+   "id": "cciechocki190826",
+   "nombre": "Ciechocki",
+   "telefono": "",
+   "email": "",
+   "relacion": "Contacto personal",
+   "tipos": [
+    "oportunidades"
+   ],
+   "prioridad": "media",
+   "temas": [],
+   "notas": "Alta preliminar — falta nombre completo, rubro de interés y datos de contacto.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-08-19",
+   "interacciones": [
+    {
+     "fecha": "2026-08-19",
+     "canal": "nota",
+     "nota": "Alta en la base para no perderlo. Falta completar nombre e interés."
+    }
+   ],
+   "updatedAt": "2026-08-19T12:00:00.000Z"
+  }
+ ],
+ "updatedAt": "2026-08-19T12:00:00.000Z"
 }
