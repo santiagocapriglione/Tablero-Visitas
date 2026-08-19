@@ -116,10 +116,10 @@
  "contactos": [
   {
    "id": "cpaula190826",
-   "nombre": "Paula",
+   "nombre": "Paula Micele",
    "telefono": "",
    "email": "",
-   "relacion": "Mamá de Vito (compañero) · esposa de Martín · arquitecta",
+   "relacion": "Mamá de Vito (compañero de Cata) · esposa de Martín Micele · arquitecta",
    "tipos": [
     "flipping",
     "construccion"
@@ -130,7 +130,7 @@
     "reciclado de unidades",
     "obra"
    ],
-   "notas": "Arquitecta, está haciendo flipping por su cuenta. Cruce casual el 19/8. Buen perfil para llevarle unidades a reciclar y para sumarla como socia/ejecutora de obra en flips propios.",
+   "notas": "Arquitecta, está haciendo flipping por su cuenta. Cruce casual el 19/8. Buen perfil para llevarle unidades a reciclar y para sumarla como socia/ejecutora de obra en flips propios. Teléfono: lo tengo en mi WhatsApp, falta pasarlo a la base.",
    "ultimoContacto": "2026-08-19",
    "frecuenciaDias": 45,
    "proximoContacto": "2026-10-03",
@@ -139,9 +139,14 @@
      "fecha": "2026-08-19",
      "canal": "encuentro",
      "nota": "Me la crucé. Está haciendo flipping. Pendiente: pedirle el teléfono y proponerle un café para ver qué está buscando y mostrarle unidades para reciclar."
+    },
+    {
+     "fecha": "2026-08-19",
+     "canal": "nota",
+     "nota": "Datos corregidos: Vito es compañero de Cata; el marido es Martín Micele. Pendiente: copiar el teléfono desde WhatsApp para activar el botón."
     }
    ],
-   "updatedAt": "2026-08-19T12:00:00.000Z"
+   "updatedAt": "2026-08-19T14:05:00.000Z"
   },
   {
    "id": "cnachosarcchi190826",
@@ -385,5 +390,5 @@
    "updatedAt": "2026-08-19T12:00:00.000Z"
   }
  ],
- "updatedAt": "2026-08-19T12:00:00.000Z"
+ "updatedAt": "2026-08-19T14:05:00.000Z"
 }
