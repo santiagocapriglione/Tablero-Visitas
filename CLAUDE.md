@@ -79,7 +79,7 @@ Red de contactos para hacer negocios: gente a la que hay que volver a llamar cad
 
 ## Repaso cada 15 días
 
-Hay evento recurrente en Google Calendar. En cada repaso: listar vencidos y los de la quincena, proponer a quién escribirle primero (prioridad alta + más días sin contacto), y pedirle a Santiago que sume los contactos nuevos que se le hayan cruzado. El botón de WhatsApp abre el chat con un saludo armado — **el mensaje lo manda siempre Santiago**, nunca automatizar el envío.
+Hay evento recurrente en Google Calendar. La lista de la pestaña Contactos se ordena sola por urgencia en tres bloques (Toca ahora / Próximos 15 días / Al día). En cada repaso: listar vencidos y los de la quincena, proponer a quién escribirle primero (prioridad alta + más días sin contacto), y pedirle a Santiago que sume los contactos nuevos que se le hayan cruzado. El botón de WhatsApp abre el chat con un saludo armado — **el mensaje lo manda siempre Santiago**, nunca automatizar el envío.
 
 ## Schema de contacto
 
