@@ -388,7 +388,36 @@
     }
    ],
    "updatedAt": "2026-08-19T12:00:00.000Z"
+  },
+  {
+   "id": "cnicolasvalota190826",
+   "nombre": "Nicolás Valota",
+   "telefono": "",
+   "email": "",
+   "relacion": "Colega del rubro",
+   "tipos": [
+    "oportunidades",
+    "compraventa",
+    "negocios"
+   ],
+   "prioridad": "media",
+   "temas": [
+    "inversión",
+    "operaciones en conjunto"
+   ],
+   "notas": "Colega. Contacto para inversión: pasarle oportunidades y ver de armar operaciones en conjunto. Pendiente: definir qué tipo de inversión busca (ticket, zona, tipología) y cargar el teléfono.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-08-19",
+   "interacciones": [
+    {
+     "fecha": "2026-08-19",
+     "canal": "nota",
+     "nota": "Alta en la base. Colega, contacto para inversión. Pendiente: teléfono y definir qué busca."
+    }
+   ],
+   "updatedAt": "2026-08-19T14:35:00.000Z"
   }
  ],
- "updatedAt": "2026-08-19T14:20:00.000Z"
+ "updatedAt": "2026-08-19T14:35:00.000Z"
 }
