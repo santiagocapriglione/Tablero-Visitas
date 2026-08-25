@@ -1,6 +1,38 @@
 {
  "visitas": [
   {
+   "id": "v6a8ddec7",
+   "fechaVisita": "2026-08-22",
+   "propiedad": {
+    "direccion": "La Variegada 2251",
+    "localidad": "",
+    "linkHoughton": "",
+    "linkTokko": "",
+    "dropbox": ""
+   },
+   "contacto": {
+    "nombre": "Ezequiel Colega",
+    "telefono": "+5491164495206"
+   },
+   "comentario": "Visita a La Variegada 2251 con Ezequiel Colega. Le gustó, está dentro de sus parámetros.",
+   "resultado": "positiva",
+   "calificacion": 4,
+   "recontactar": "2026-08-28",
+   "recontactado": false,
+   "calendarEventId": "ijbcik8sg6fb0cmqses0qqvl1k",
+   "seguimiento": [
+    {
+     "fecha": "2026-08-22",
+     "nota": "Visita realizada con Ezequiel Colega a La Variegada 2251. Le gustó, está dentro de sus parámetros."
+    },
+    {
+     "fecha": "2026-08-24",
+     "nota": "Santiago lo recontactó (recordatorio de 48hs). Pendiente: ver el viernes 28/8 si conviene mandarle un mensaje."
+    }
+   ],
+   "updatedAt": "2026-08-25T18:28:34.000Z"
+  },
+  {
    "id": "vtamara250725",
    "fechaVisita": "2026-07-25",
    "propiedad": {
@@ -419,5 +451,5 @@
    "updatedAt": "2026-08-19T14:35:00.000Z"
   }
  ],
- "updatedAt": "2026-08-19T14:35:00.000Z"
+ "updatedAt": "2026-08-25T18:28:34.000Z"
 }
