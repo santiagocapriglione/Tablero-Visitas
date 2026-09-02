@@ -417,7 +417,27 @@
     }
    ],
    "updatedAt": "2026-08-19T14:35:00.000Z"
+  },
+  {
+   "id": "cjavieralcaraz020926",
+   "nombre": "Javier Alcaraz",
+   "telefono": "",
+   "email": "",
+   "relacion": "Conocido (apodo \"el cachapaz\")",
+   "tipos": [
+    "oportunidades"
+   ],
+   "prioridad": "media",
+   "temas": [
+    "posible inversor"
+   ],
+   "notas": "Cliente que podría invertir. Pendiente confirmar en qué tipo de negocio está interesado y conseguir el teléfono.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-09-02",
+   "interacciones": [],
+   "updatedAt": "2026-09-02T00:00:00.000Z"
   }
  ],
- "updatedAt": "2026-08-19T14:35:00.000Z"
+ "updatedAt": "2026-09-02T00:00:00.000Z"
 }
