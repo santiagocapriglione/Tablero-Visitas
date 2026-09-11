@@ -590,7 +590,34 @@
     }
    ],
    "updatedAt": "2026-09-11T14:00:00.000Z"
+  },
+  {
+   "id": "calejandrorivero110926",
+   "nombre": "Alejandro Rivero",
+   "telefono": "",
+   "email": "",
+   "relacion": "Inversor · rubro hotelero",
+   "tipos": [
+    "oportunidades",
+    "negocios"
+   ],
+   "prioridad": "media",
+   "temas": [
+    "hoteles"
+   ],
+   "notas": "Alta en el listado de inversores, anotado como \"Alejandro Hoteles Rivero\" (se interpretó que el hotelero es el rubro, confirmar). Pendiente: teléfono, cómo lo conoce y qué busca (hoteles para comprar/operar, u otro tipo de inversión).",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-09-11",
+   "interacciones": [
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Alta en la base como inversor del rubro hotelero. Falta completar perfil, interés y datos de contacto."
+    }
+   ],
+   "updatedAt": "2026-09-11T15:00:00.000Z"
   }
  ],
- "updatedAt": "2026-09-11T14:30:00.000Z"
+ "updatedAt": "2026-09-11T15:00:00.000Z"
 }
