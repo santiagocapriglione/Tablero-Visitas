@@ -419,8 +419,8 @@
    "updatedAt": "2026-08-19T14:35:00.000Z"
   },
   {
-   "id": "cnataliaandresklein110926",
-   "nombre": "Natalia Andrés Klein",
+   "id": "cnataliaastiz110926",
+   "nombre": "Natalia Astiz",
    "telefono": "",
    "email": "",
    "relacion": "Inversor",
@@ -440,7 +440,31 @@
      "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
     }
    ],
-   "updatedAt": "2026-09-11T12:00:00.000Z"
+   "updatedAt": "2026-09-11T13:00:00.000Z"
+  },
+  {
+   "id": "candresklein110926",
+   "nombre": "Andrés Klein",
+   "telefono": "",
+   "email": "",
+   "relacion": "Inversor",
+   "tipos": [
+    "oportunidades"
+   ],
+   "prioridad": "media",
+   "temas": [],
+   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-09-11",
+   "interacciones": [
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    }
+   ],
+   "updatedAt": "2026-09-11T13:00:00.000Z"
   },
   {
    "id": "cjorgelentino110926",
@@ -515,5 +539,5 @@
    "updatedAt": "2026-09-11T12:00:00.000Z"
   }
  ],
- "updatedAt": "2026-09-11T12:00:00.000Z"
+ "updatedAt": "2026-09-11T13:00:00.000Z"
 }
