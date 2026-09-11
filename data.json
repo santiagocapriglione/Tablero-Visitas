@@ -236,7 +236,7 @@
     {
       "id": "cgabrielsaidman190826",
       "nombre": "Gabriel Saidman",
-      "telefono": "",
+      "telefono": "+5491159927435",
       "email": "",
       "relacion": "Inversor",
       "tipos": [
@@ -263,9 +263,14 @@
           "fecha": "2026-09-11",
           "canal": "nota",
           "nota": "Reconfirmado en el listado de inversores del 11/9. Sigue pendiente desde el 19/8: teléfono y mandarle oportunidades."
+        },
+        {
+          "fecha": "2026-09-11",
+          "canal": "nota",
+          "nota": "Santiago pasó el teléfono."
         }
       ],
-      "updatedAt": "2026-09-11T14:30:00.000Z"
+      "updatedAt": "2026-09-11T20:00:00.000Z"
     },
     {
       "id": "cgonzachavez190826",
@@ -325,7 +330,7 @@
     {
       "id": "ccharlysuliansky190826",
       "nombre": "Carlos Suliansky",
-      "telefono": "",
+      "telefono": "+5491149924455",
       "email": "",
       "relacion": "Inversor · contacto personal",
       "tipos": [
@@ -339,7 +344,7 @@
         "proyectos",
         "tierras"
       ],
-      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Unificado con el alta previa como \"Charly Suliansky\" (19/08): es la misma persona. Pendiente: teléfono, ticket/zona/tipología que busca.",
+      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Unificado con el alta previa como \"Charly Suliansky\" (19/08): es la misma persona. Pendiente: ticket/zona/tipología que busca.",
       "ultimoContacto": "",
       "frecuenciaDias": 60,
       "proximoContacto": "2026-09-11",
@@ -353,9 +358,14 @@
           "fecha": "2026-09-11",
           "canal": "nota",
           "nota": "Santiago confirma que Carlos (Charly) Suliansky es la misma persona del listado de inversores. Se unificó la ficha y se subió a prioridad alta como inversor."
+        },
+        {
+          "fecha": "2026-09-11",
+          "canal": "nota",
+          "nota": "Santiago pasó el teléfono."
         }
       ],
-      "updatedAt": "2026-09-11T19:00:00.000Z"
+      "updatedAt": "2026-09-11T20:00:00.000Z"
     },
     {
       "id": "calangoldfarb190826",
@@ -448,7 +458,7 @@
     {
       "id": "cnataliaastiz110926",
       "nombre": "Natalia Astiz",
-      "telefono": "",
+      "telefono": "+5491151398615",
       "email": "",
       "relacion": "Inversor",
       "tipos": [
@@ -462,7 +472,7 @@
         "proyectos",
         "tierras"
       ],
-      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
       "ultimoContacto": "",
       "frecuenciaDias": 60,
       "proximoContacto": "2026-09-11",
@@ -476,9 +486,14 @@
           "fecha": "2026-09-11",
           "canal": "nota",
           "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
+        },
+        {
+          "fecha": "2026-09-11",
+          "canal": "nota",
+          "nota": "Santiago pasó el teléfono."
         }
       ],
-      "updatedAt": "2026-09-11T17:00:00.000Z"
+      "updatedAt": "2026-09-11T20:00:00.000Z"
     },
     {
       "id": "candresklein110926",
@@ -868,5 +883,5 @@
       "updatedAt": "2026-09-11T18:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-11T19:30:00.000Z"
+  "updatedAt": "2026-09-11T20:00:00.000Z"
 }
