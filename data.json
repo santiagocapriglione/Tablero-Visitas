@@ -393,7 +393,7 @@
     },
     {
       "id": "cciechocki190826",
-      "nombre": "Federico Sichocchi",
+      "nombre": "Fede Ciechocki",
       "telefono": "",
       "email": "",
       "relacion": "Inversor · contacto personal",
@@ -408,7 +408,7 @@
         "proyectos",
         "tierras"
       ],
-      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Unificado con el alta previa como \"Ciechocki\" (19/08): es la misma persona. Pendiente: teléfono, ticket/zona/tipología que busca.",
+      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Unificado con el alta previa (19/08): es la misma persona. Nombre correcto: Fede Ciechocki. Pendiente: teléfono, ticket/zona/tipología que busca.",
       "ultimoContacto": "",
       "frecuenciaDias": 60,
       "proximoContacto": "2026-09-11",
@@ -422,9 +422,14 @@
           "fecha": "2026-09-11",
           "canal": "nota",
           "nota": "Santiago confirma que Federico Sichocchi es el mismo \"Ciechocki\" cargado el 19/08. Se unificó la ficha y se subió a prioridad alta como inversor."
+        },
+        {
+          "fecha": "2026-09-11",
+          "canal": "nota",
+          "nota": "Santiago corrige el nombre: es Fede Ciechocki (se había anotado Federico Sichocchi por el audio)."
         }
       ],
-      "updatedAt": "2026-09-11T19:30:00.000Z"
+      "updatedAt": "2026-09-11T21:00:00.000Z"
     },
     {
       "id": "cnicolasvalota190826",
@@ -888,5 +893,5 @@
       "updatedAt": "2026-09-11T20:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-11T20:30:00.000Z"
+  "updatedAt": "2026-09-11T21:00:00.000Z"
 }
