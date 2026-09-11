@@ -417,7 +417,103 @@
     }
    ],
    "updatedAt": "2026-08-19T14:35:00.000Z"
+  },
+  {
+   "id": "cnataliaandresklein110926",
+   "nombre": "Natalia Andrés Klein",
+   "telefono": "",
+   "email": "",
+   "relacion": "Inversor",
+   "tipos": [
+    "oportunidades"
+   ],
+   "prioridad": "media",
+   "temas": [],
+   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-09-11",
+   "interacciones": [
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    }
+   ],
+   "updatedAt": "2026-09-11T12:00:00.000Z"
+  },
+  {
+   "id": "cjorgelentino110926",
+   "nombre": "Jorge Lentino",
+   "telefono": "",
+   "email": "",
+   "relacion": "Inversor",
+   "tipos": [
+    "oportunidades"
+   ],
+   "prioridad": "media",
+   "temas": [],
+   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-09-11",
+   "interacciones": [
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    }
+   ],
+   "updatedAt": "2026-09-11T12:00:00.000Z"
+  },
+  {
+   "id": "ctatoisabelo110926",
+   "nombre": "Tato Isabelo",
+   "telefono": "",
+   "email": "",
+   "relacion": "Inversor",
+   "tipos": [
+    "oportunidades"
+   ],
+   "prioridad": "media",
+   "temas": [],
+   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-09-11",
+   "interacciones": [
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    }
+   ],
+   "updatedAt": "2026-09-11T12:00:00.000Z"
+  },
+  {
+   "id": "cadrianweinzettel110926",
+   "nombre": "Adrián Weinzettel",
+   "telefono": "",
+   "email": "",
+   "relacion": "Inversor",
+   "tipos": [
+    "oportunidades"
+   ],
+   "prioridad": "media",
+   "temas": [],
+   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-09-11",
+   "interacciones": [
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    }
+   ],
+   "updatedAt": "2026-09-11T12:00:00.000Z"
   }
  ],
- "updatedAt": "2026-08-19T14:35:00.000Z"
+ "updatedAt": "2026-09-11T12:00:00.000Z"
 }
