@@ -324,27 +324,38 @@
     },
     {
       "id": "ccharlysuliansky190826",
-      "nombre": "Charly Suliansky",
+      "nombre": "Carlos Suliansky",
       "telefono": "",
       "email": "",
-      "relacion": "Contacto personal",
+      "relacion": "Inversor · contacto personal",
       "tipos": [
+        "desarrollos",
+        "pozo",
+        "terrenos",
         "oportunidades"
       ],
-      "prioridad": "media",
-      "temas": [],
-      "notas": "Alta preliminar — completar rubro de interés, tipo de inversión y datos de contacto en el próximo repaso.",
+      "prioridad": "alta",
+      "temas": [
+        "proyectos",
+        "tierras"
+      ],
+      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Unificado con el alta previa como \"Charly Suliansky\" (19/08): es la misma persona. Pendiente: teléfono, ticket/zona/tipología que busca.",
       "ultimoContacto": "",
       "frecuenciaDias": 60,
-      "proximoContacto": "2026-08-19",
+      "proximoContacto": "2026-09-11",
       "interacciones": [
         {
           "fecha": "2026-08-19",
           "canal": "nota",
           "nota": "Alta en la base para no perderlo. Falta completar perfil e interés."
+        },
+        {
+          "fecha": "2026-09-11",
+          "canal": "nota",
+          "nota": "Santiago confirma que Carlos (Charly) Suliansky es la misma persona del listado de inversores. Se unificó la ficha y se subió a prioridad alta como inversor."
         }
       ],
-      "updatedAt": "2026-08-19T12:00:00.000Z"
+      "updatedAt": "2026-09-11T19:00:00.000Z"
     },
     {
       "id": "calangoldfarb190826",
@@ -874,37 +885,7 @@
         }
       ],
       "updatedAt": "2026-09-11T18:00:00.000Z"
-    },
-    {
-      "id": "ccarloszulianski110926",
-      "nombre": "Carlos Zulianski",
-      "telefono": "",
-      "email": "",
-      "relacion": "Inversor",
-      "tipos": [
-        "desarrollos",
-        "pozo",
-        "terrenos",
-        "oportunidades"
-      ],
-      "prioridad": "alta",
-      "temas": [
-        "proyectos",
-        "tierras"
-      ],
-      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce. Posible duplicado de 'Charly Suliansky' (id ccharlysuliansky190826, alta del 19/08) — confirmar si es la misma persona y unificar.",
-      "ultimoContacto": "",
-      "frecuenciaDias": 60,
-      "proximoContacto": "2026-09-11",
-      "interacciones": [
-        {
-          "fecha": "2026-09-11",
-          "canal": "nota",
-          "nota": "Alta en la base como inversor del listado. Falta teléfono y perfil de inversión."
-        }
-      ],
-      "updatedAt": "2026-09-11T18:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-11T18:30:00.000Z"
+  "updatedAt": "2026-09-11T19:00:00.000Z"
 }
