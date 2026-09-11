@@ -641,7 +641,31 @@
     }
    ],
    "updatedAt": "2026-09-11T15:30:00.000Z"
+  },
+  {
+   "id": "csolcalfat110926",
+   "nombre": "Sol Calfat",
+   "telefono": "",
+   "email": "",
+   "relacion": "Inversor",
+   "tipos": [
+    "oportunidades"
+   ],
+   "prioridad": "media",
+   "temas": [],
+   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-09-11",
+   "interacciones": [
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    }
+   ],
+   "updatedAt": "2026-09-11T16:00:00.000Z"
   }
  ],
- "updatedAt": "2026-09-11T15:30:00.000Z"
+ "updatedAt": "2026-09-11T16:00:00.000Z"
 }
