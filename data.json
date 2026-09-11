@@ -854,8 +854,8 @@
     },
     {
       "id": "csepadrescher110926",
-      "nombre": "Sepa Drescher",
-      "telefono": "",
+      "nombre": "Seba Drescher",
+      "telefono": "+5491165551140",
       "email": "",
       "relacion": "Inversor",
       "tipos": [
@@ -869,7 +869,7 @@
         "proyectos",
         "tierras"
       ],
-      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce. Nombre tal cual lo pasó Santiago (puede ser transcripción de audio) — confirmar nombre completo.",
+      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: cómo lo conoce y qué busca (ticket, zona, tipología).",
       "ultimoContacto": "",
       "frecuenciaDias": 60,
       "proximoContacto": "2026-09-11",
@@ -878,10 +878,15 @@
           "fecha": "2026-09-11",
           "canal": "nota",
           "nota": "Alta en la base como inversor del listado. Falta teléfono y perfil de inversión."
+        },
+        {
+          "fecha": "2026-09-11",
+          "canal": "nota",
+          "nota": "Santiago corrige el nombre (Seba, no Sepa) y pasa el teléfono."
         }
       ],
-      "updatedAt": "2026-09-11T18:00:00.000Z"
+      "updatedAt": "2026-09-11T20:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-11T20:00:00.000Z"
+  "updatedAt": "2026-09-11T20:30:00.000Z"
 }
