@@ -430,11 +430,17 @@
    "email": "",
    "relacion": "Inversor",
    "tipos": [
+    "desarrollos",
+    "pozo",
+    "terrenos",
     "oportunidades"
    ],
-   "prioridad": "media",
-   "temas": [],
-   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "prioridad": "alta",
+   "temas": [
+    "proyectos",
+    "tierras"
+   ],
+   "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
    "ultimoContacto": "",
    "frecuenciaDias": 60,
    "proximoContacto": "2026-09-11",
@@ -443,9 +449,14 @@
      "fecha": "2026-09-11",
      "canal": "nota",
      "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    },
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
     }
    ],
-   "updatedAt": "2026-09-11T13:00:00.000Z"
+   "updatedAt": "2026-09-11T17:00:00.000Z"
   },
   {
    "id": "candresklein110926",
@@ -454,11 +465,17 @@
    "email": "",
    "relacion": "Inversor",
    "tipos": [
+    "desarrollos",
+    "pozo",
+    "terrenos",
     "oportunidades"
    ],
-   "prioridad": "media",
-   "temas": [],
-   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "prioridad": "alta",
+   "temas": [
+    "proyectos",
+    "tierras"
+   ],
+   "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
    "ultimoContacto": "",
    "frecuenciaDias": 60,
    "proximoContacto": "2026-09-11",
@@ -467,9 +484,14 @@
      "fecha": "2026-09-11",
      "canal": "nota",
      "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    },
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
     }
    ],
-   "updatedAt": "2026-09-11T13:00:00.000Z"
+   "updatedAt": "2026-09-11T17:00:00.000Z"
   },
   {
    "id": "cjorgelentino110926",
@@ -478,11 +500,17 @@
    "email": "",
    "relacion": "Inversor",
    "tipos": [
+    "desarrollos",
+    "pozo",
+    "terrenos",
     "oportunidades"
    ],
-   "prioridad": "media",
-   "temas": [],
-   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "prioridad": "alta",
+   "temas": [
+    "proyectos",
+    "tierras"
+   ],
+   "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
    "ultimoContacto": "",
    "frecuenciaDias": 60,
    "proximoContacto": "2026-09-11",
@@ -491,9 +519,14 @@
      "fecha": "2026-09-11",
      "canal": "nota",
      "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    },
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
     }
    ],
-   "updatedAt": "2026-09-11T12:00:00.000Z"
+   "updatedAt": "2026-09-11T17:00:00.000Z"
   },
   {
    "id": "ctatoisabelo110926",
@@ -502,11 +535,17 @@
    "email": "",
    "relacion": "Inversor",
    "tipos": [
+    "desarrollos",
+    "pozo",
+    "terrenos",
     "oportunidades"
    ],
-   "prioridad": "media",
-   "temas": [],
-   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "prioridad": "alta",
+   "temas": [
+    "proyectos",
+    "tierras"
+   ],
+   "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
    "ultimoContacto": "",
    "frecuenciaDias": 60,
    "proximoContacto": "2026-09-11",
@@ -515,9 +554,14 @@
      "fecha": "2026-09-11",
      "canal": "nota",
      "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    },
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
     }
    ],
-   "updatedAt": "2026-09-11T12:00:00.000Z"
+   "updatedAt": "2026-09-11T17:00:00.000Z"
   },
   {
    "id": "cadrianweinzettel110926",
@@ -526,11 +570,17 @@
    "email": "",
    "relacion": "Inversor",
    "tipos": [
+    "desarrollos",
+    "pozo",
+    "terrenos",
     "oportunidades"
    ],
-   "prioridad": "media",
-   "temas": [],
-   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "prioridad": "alta",
+   "temas": [
+    "proyectos",
+    "tierras"
+   ],
+   "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
    "ultimoContacto": "",
    "frecuenciaDias": 60,
    "proximoContacto": "2026-09-11",
@@ -539,9 +589,14 @@
      "fecha": "2026-09-11",
      "canal": "nota",
      "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    },
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
     }
    ],
-   "updatedAt": "2026-09-11T12:00:00.000Z"
+   "updatedAt": "2026-09-11T17:00:00.000Z"
   },
   {
    "id": "cpolrunco110926",
@@ -550,11 +605,17 @@
    "email": "",
    "relacion": "Inversor",
    "tipos": [
+    "desarrollos",
+    "pozo",
+    "terrenos",
     "oportunidades"
    ],
-   "prioridad": "media",
-   "temas": [],
-   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "prioridad": "alta",
+   "temas": [
+    "proyectos",
+    "tierras"
+   ],
+   "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
    "ultimoContacto": "",
    "frecuenciaDias": 60,
    "proximoContacto": "2026-09-11",
@@ -563,9 +624,14 @@
      "fecha": "2026-09-11",
      "canal": "nota",
      "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    },
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
     }
    ],
-   "updatedAt": "2026-09-11T13:30:00.000Z"
+   "updatedAt": "2026-09-11T17:00:00.000Z"
   },
   {
    "id": "cnorbertogiudice110926",
@@ -574,11 +640,17 @@
    "email": "",
    "relacion": "Inversor",
    "tipos": [
+    "desarrollos",
+    "pozo",
+    "terrenos",
     "oportunidades"
    ],
-   "prioridad": "media",
-   "temas": [],
-   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "prioridad": "alta",
+   "temas": [
+    "proyectos",
+    "tierras"
+   ],
+   "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
    "ultimoContacto": "",
    "frecuenciaDias": 60,
    "proximoContacto": "2026-09-11",
@@ -587,9 +659,14 @@
      "fecha": "2026-09-11",
      "canal": "nota",
      "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    },
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
     }
    ],
-   "updatedAt": "2026-09-11T14:00:00.000Z"
+   "updatedAt": "2026-09-11T17:00:00.000Z"
   },
   {
    "id": "calejandrorivero110926",
@@ -598,14 +675,19 @@
    "email": "",
    "relacion": "Inversor · rubro hotelero",
    "tipos": [
+    "desarrollos",
+    "pozo",
+    "terrenos",
     "oportunidades",
     "negocios"
    ],
-   "prioridad": "media",
+   "prioridad": "alta",
    "temas": [
-    "hoteles"
+    "hoteles",
+    "proyectos",
+    "tierras"
    ],
-   "notas": "Alta en el listado de inversores, anotado como \"Alejandro Hoteles Rivero\" (se interpretó que el hotelero es el rubro, confirmar). Pendiente: teléfono, cómo lo conoce y qué busca (hoteles para comprar/operar, u otro tipo de inversión).",
+   "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso, anotado como \"Alejandro Hoteles Rivero\" (se interpretó que el hotelero es el rubro, confirmar). Pendiente: teléfono, cómo lo conoce y qué busca (hoteles para comprar/operar, u otro tipo de inversión).",
    "ultimoContacto": "",
    "frecuenciaDias": 60,
    "proximoContacto": "2026-09-11",
@@ -614,9 +696,14 @@
      "fecha": "2026-09-11",
      "canal": "nota",
      "nota": "Alta en la base como inversor del rubro hotelero. Falta completar perfil, interés y datos de contacto."
+    },
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
     }
    ],
-   "updatedAt": "2026-09-11T15:00:00.000Z"
+   "updatedAt": "2026-09-11T17:00:00.000Z"
   },
   {
    "id": "cagustinquiroga110926",
@@ -625,11 +712,17 @@
    "email": "",
    "relacion": "Inversor",
    "tipos": [
+    "desarrollos",
+    "pozo",
+    "terrenos",
     "oportunidades"
    ],
-   "prioridad": "media",
-   "temas": [],
-   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "prioridad": "alta",
+   "temas": [
+    "proyectos",
+    "tierras"
+   ],
+   "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
    "ultimoContacto": "",
    "frecuenciaDias": 60,
    "proximoContacto": "2026-09-11",
@@ -638,9 +731,14 @@
      "fecha": "2026-09-11",
      "canal": "nota",
      "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    },
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
     }
    ],
-   "updatedAt": "2026-09-11T15:30:00.000Z"
+   "updatedAt": "2026-09-11T17:00:00.000Z"
   },
   {
    "id": "csolcalfat110926",
@@ -649,11 +747,17 @@
    "email": "",
    "relacion": "Inversor",
    "tipos": [
+    "desarrollos",
+    "pozo",
+    "terrenos",
     "oportunidades"
    ],
-   "prioridad": "media",
-   "temas": [],
-   "notas": "Alta en el listado de inversores. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "prioridad": "alta",
+   "temas": [
+    "proyectos",
+    "tierras"
+   ],
+   "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
    "ultimoContacto": "",
    "frecuenciaDias": 60,
    "proximoContacto": "2026-09-11",
@@ -662,9 +766,14 @@
      "fecha": "2026-09-11",
      "canal": "nota",
      "nota": "Alta en la base como inversor. Falta completar perfil, interés y datos de contacto."
+    },
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
     }
    ],
-   "updatedAt": "2026-09-11T16:00:00.000Z"
+   "updatedAt": "2026-09-11T17:00:00.000Z"
   },
   {
    "id": "cgabrielgliksberg110926",
@@ -673,11 +782,17 @@
    "email": "",
    "relacion": "Inversor",
    "tipos": [
+    "desarrollos",
+    "pozo",
+    "terrenos",
     "oportunidades"
    ],
-   "prioridad": "media",
-   "temas": [],
-   "notas": "Alta en el listado de inversores. Pendiente: tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "prioridad": "alta",
+   "temas": [
+    "proyectos",
+    "tierras"
+   ],
+   "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
    "ultimoContacto": "",
    "frecuenciaDias": 60,
    "proximoContacto": "2026-09-11",
@@ -686,10 +801,15 @@
      "fecha": "2026-09-11",
      "canal": "nota",
      "nota": "Alta en la base como inversor, con teléfono. Falta completar perfil e interés."
+    },
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
     }
    ],
-   "updatedAt": "2026-09-11T16:30:00.000Z"
+   "updatedAt": "2026-09-11T17:00:00.000Z"
   }
  ],
- "updatedAt": "2026-09-11T16:30:00.000Z"
+ "updatedAt": "2026-09-11T17:00:00.000Z"
 }
