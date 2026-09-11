@@ -394,7 +394,7 @@
     {
       "id": "cciechocki190826",
       "nombre": "Fede Ciechocki",
-      "telefono": "",
+      "telefono": "+5491162448280",
       "email": "",
       "relacion": "Inversor · contacto personal",
       "tipos": [
@@ -408,7 +408,7 @@
         "proyectos",
         "tierras"
       ],
-      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Unificado con el alta previa (19/08): es la misma persona. Nombre correcto: Fede Ciechocki. Pendiente: teléfono, ticket/zona/tipología que busca.",
+      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Unificado con el alta previa (19/08): es la misma persona. Nombre correcto: Fede Ciechocki. Pendiente: ticket/zona/tipología que busca.",
       "ultimoContacto": "",
       "frecuenciaDias": 60,
       "proximoContacto": "2026-09-11",
@@ -427,9 +427,14 @@
           "fecha": "2026-09-11",
           "canal": "nota",
           "nota": "Santiago corrige el nombre: es Fede Ciechocki (se había anotado Federico Sichocchi por el audio)."
+        },
+        {
+          "fecha": "2026-09-11",
+          "canal": "nota",
+          "nota": "Santiago pasó el teléfono."
         }
       ],
-      "updatedAt": "2026-09-11T21:00:00.000Z"
+      "updatedAt": "2026-09-11T21:30:00.000Z"
     },
     {
       "id": "cnicolasvalota190826",
@@ -503,7 +508,7 @@
     {
       "id": "candresklein110926",
       "nombre": "Andrés Klein",
-      "telefono": "",
+      "telefono": "+5491130334044",
       "email": "",
       "relacion": "Inversor",
       "tipos": [
@@ -517,7 +522,7 @@
         "proyectos",
         "tierras"
       ],
-      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: teléfono, tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Pendiente: tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
       "ultimoContacto": "",
       "frecuenciaDias": 60,
       "proximoContacto": "2026-09-11",
@@ -531,9 +536,14 @@
           "fecha": "2026-09-11",
           "canal": "nota",
           "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
+        },
+        {
+          "fecha": "2026-09-11",
+          "canal": "nota",
+          "nota": "Santiago pasó el teléfono."
         }
       ],
-      "updatedAt": "2026-09-11T17:00:00.000Z"
+      "updatedAt": "2026-09-11T21:30:00.000Z"
     },
     {
       "id": "cjorgelentino110926",
@@ -713,7 +723,7 @@
     {
       "id": "calejandrorivero110926",
       "nombre": "Alejandra Rivero",
-      "telefono": "",
+      "telefono": "+5491155787778",
       "email": "",
       "relacion": "Inversora · rubro hotelero",
       "tipos": [
@@ -729,7 +739,7 @@
         "proyectos",
         "tierras"
       ],
-      "notas": "Inversora del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Es del rubro hotelero (confirmado por Santiago). Pendiente: teléfono, cómo la conoce y qué busca (hoteles para comprar/operar, u otro tipo de inversión).",
+      "notas": "Inversora del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Es del rubro hotelero (confirmado por Santiago). Pendiente: cómo la conoce y qué busca (hoteles para comprar/operar, u otro tipo de inversión).",
       "ultimoContacto": "",
       "frecuenciaDias": 60,
       "proximoContacto": "2026-09-11",
@@ -748,9 +758,14 @@
           "fecha": "2026-09-11",
           "canal": "nota",
           "nota": "Corrección de Santiago: es Alejandra Rivero (no Alejandro) y es hotelera."
+        },
+        {
+          "fecha": "2026-09-11",
+          "canal": "nota",
+          "nota": "Santiago pasó el teléfono."
         }
       ],
-      "updatedAt": "2026-09-11T18:30:00.000Z"
+      "updatedAt": "2026-09-11T21:30:00.000Z"
     },
     {
       "id": "cagustinquiroga110926",
@@ -893,5 +908,5 @@
       "updatedAt": "2026-09-11T20:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-11T21:00:00.000Z"
+  "updatedAt": "2026-09-11T21:30:00.000Z"
 }
