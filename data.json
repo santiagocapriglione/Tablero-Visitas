@@ -670,10 +670,10 @@
     },
     {
       "id": "calejandrorivero110926",
-      "nombre": "Alejandro Rivero",
+      "nombre": "Alejandra Rivero",
       "telefono": "",
       "email": "",
-      "relacion": "Inversor · rubro hotelero",
+      "relacion": "Inversora · rubro hotelero",
       "tipos": [
         "desarrollos",
         "pozo",
@@ -687,7 +687,7 @@
         "proyectos",
         "tierras"
       ],
-      "notas": "Inversor del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso, anotado como \"Alejandro Hoteles Rivero\" (se interpretó que el hotelero es el rubro, confirmar). Pendiente: teléfono, cómo lo conoce y qué busca (hoteles para comprar/operar, u otro tipo de inversión).",
+      "notas": "Inversora del listado para ofrecerle proyectos (desarrollos / pozo); algunos del grupo además compran tierras — confirmar si es el caso. Es del rubro hotelero (confirmado por Santiago). Pendiente: teléfono, cómo la conoce y qué busca (hoteles para comprar/operar, u otro tipo de inversión).",
       "ultimoContacto": "",
       "frecuenciaDias": 60,
       "proximoContacto": "2026-09-11",
@@ -701,9 +701,14 @@
           "fecha": "2026-09-11",
           "canal": "nota",
           "nota": "Definido el perfil del listado: son inversores para ofrecerles proyectos; algunos pueden comprar tierras. Pendiente: confirmar quiénes compran tierra y el ticket de cada uno."
+        },
+        {
+          "fecha": "2026-09-11",
+          "canal": "nota",
+          "nota": "Corrección de Santiago: es Alejandra Rivero (no Alejandro) y es hotelera."
         }
       ],
-      "updatedAt": "2026-09-11T17:00:00.000Z"
+      "updatedAt": "2026-09-11T18:30:00.000Z"
     },
     {
       "id": "cagustinquiroga110926",
@@ -901,5 +906,5 @@
       "updatedAt": "2026-09-11T18:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-09-11T18:00:00.000Z"
+  "updatedAt": "2026-09-11T18:30:00.000Z"
 }
