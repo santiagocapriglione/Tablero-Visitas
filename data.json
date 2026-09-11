@@ -665,7 +665,31 @@
     }
    ],
    "updatedAt": "2026-09-11T16:00:00.000Z"
+  },
+  {
+   "id": "cgabrielgliksberg110926",
+   "nombre": "Gabriel Gliksberg",
+   "telefono": "+5491150642935",
+   "email": "",
+   "relacion": "Inversor",
+   "tipos": [
+    "oportunidades"
+   ],
+   "prioridad": "media",
+   "temas": [],
+   "notas": "Alta en el listado de inversores. Pendiente: tipo de inversión que busca (ticket, zona, tipología) y cómo lo conoce.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-09-11",
+   "interacciones": [
+    {
+     "fecha": "2026-09-11",
+     "canal": "nota",
+     "nota": "Alta en la base como inversor, con teléfono. Falta completar perfil e interés."
+    }
+   ],
+   "updatedAt": "2026-09-11T16:30:00.000Z"
   }
  ],
- "updatedAt": "2026-09-11T16:00:00.000Z"
+ "updatedAt": "2026-09-11T16:30:00.000Z"
 }
