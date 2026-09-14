@@ -809,7 +809,34 @@
     }
    ],
    "updatedAt": "2026-09-11T17:00:00.000Z"
+  },
+  {
+   "id": "cvirginiavergara140926",
+   "nombre": "Virginia (Vergara 2251)",
+   "telefono": "+5491154601265",
+   "email": "",
+   "relacion": "Contacto para venta de propiedades — interesada en Vergara 2251",
+   "tipos": [
+    "compraventa"
+   ],
+   "prioridad": "alta",
+   "temas": [
+    "Vergara 2251",
+    "visita"
+   ],
+   "notas": "Contacto para venta de propiedades. Hay que recontactarla y coordinar una visita a Vergara 2251. El nombre es a confirmar (Santiago cree que es Virginia). Pendiente: confirmar nombre y agendar la visita.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 30,
+   "proximoContacto": "2026-09-14",
+   "interacciones": [
+    {
+     "fecha": "2026-09-14",
+     "canal": "nota",
+     "nota": "Alta en la base con teléfono. Santiago pide recontactarla para coordinar una visita a Vergara 2251. Nombre a confirmar."
+    }
+   ],
+   "updatedAt": "2026-09-14T12:00:00.000Z"
   }
  ],
- "updatedAt": "2026-09-11T17:00:00.000Z"
+ "updatedAt": "2026-09-14T12:00:00.000Z"
 }
