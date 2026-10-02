@@ -111,6 +111,29 @@
     }
    ],
    "updatedAt": "2026-08-15T17:30:00.000Z"
+  },
+  {
+   "id": "vmacarena021026",
+   "fechaVisita": "2026-10-02",
+   "propiedad": {
+    "direccion": "A confirmar",
+    "localidad": "",
+    "linkHoughton": "",
+    "linkTokko": "",
+    "dropbox": ""
+   },
+   "contacto": {
+    "nombre": "Macarena (esposa de Gonzalo)",
+    "telefono": "+5491165159821"
+   },
+   "comentario": "Vino Macarena, esposa de Gonzalo. Preguntó por expensas, si hay cochera de cortesía, si hay grupo electrógeno y otras cuestiones. Pendiente: pasarle esas respuestas. Propiedad a confirmar.",
+   "resultado": "positiva",
+   "calificacion": 3,
+   "recontactar": "2026-10-04",
+   "recontactado": false,
+   "calendarEventId": "p97b9c0e0np6omu1knfhh2h7io",
+   "seguimiento": [],
+   "updatedAt": "2026-10-02T16:59:39.000Z"
   }
  ],
  "contactos": [
@@ -811,5 +834,5 @@
    "updatedAt": "2026-09-11T17:00:00.000Z"
   }
  ],
- "updatedAt": "2026-09-11T17:00:00.000Z"
+ "updatedAt": "2026-10-02T16:59:39.000Z"
 }
