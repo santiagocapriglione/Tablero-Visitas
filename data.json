@@ -174,8 +174,8 @@
     "dropbox": ""
    },
    "contacto": {
-    "nombre": "María Saeru",
-    "telefono": ""
+    "nombre": "María Saa",
+    "telefono": "+5491130120977"
    },
    "comentario": "Interesado/a en Casa Perú. Hacer seguimiento y estarle encima: recontactar el martes 13/10. Teléfono pendiente. Fecha de visita y dirección exacta a confirmar.",
    "resultado": "positiva",
@@ -189,7 +189,7 @@
      "nota": "Santiago pide seguirlo de cerca por Casa Perú; recordatorio el martes 13/10 a las 10."
     }
    ],
-   "updatedAt": "2026-10-10T16:30:00.000Z"
+   "updatedAt": "2026-10-10T17:00:00.000Z"
   },
   {
    "id": "vcamila101026",
@@ -203,7 +203,7 @@
    },
    "contacto": {
     "nombre": "Camila",
-    "telefono": ""
+    "telefono": "+5492236214092"
    },
    "comentario": "Interesado/a en Casa Perú. Hacer seguimiento y estarle encima: recontactar el martes 13/10. Teléfono pendiente. Fecha de visita y dirección exacta a confirmar.",
    "resultado": "positiva",
@@ -217,7 +217,7 @@
      "nota": "Santiago pide seguirlo de cerca por Casa Perú; recordatorio el martes 13/10 a las 10."
     }
    ],
-   "updatedAt": "2026-10-10T16:30:00.000Z"
+   "updatedAt": "2026-10-10T17:00:00.000Z"
   },
   {
    "id": "vsantiago101026",
@@ -946,5 +946,5 @@
    "updatedAt": "2026-09-11T17:00:00.000Z"
   }
  ],
- "updatedAt": "2026-10-10T16:40:00.000Z"
+ "updatedAt": "2026-10-10T17:00:00.000Z"
 }
