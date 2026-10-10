@@ -944,7 +944,36 @@
     }
    ],
    "updatedAt": "2026-09-11T17:00:00.000Z"
+  },
+  {
+   "id": "cpablo101026",
+   "nombre": "Pablo (constructor / desarrollador)",
+   "telefono": "+5491124615407",
+   "email": "",
+   "relacion": "Constructor / desarrollador",
+   "tipos": [
+    "desarrollos",
+    "construccion",
+    "renta"
+   ],
+   "prioridad": "media",
+   "temas": [
+    "departamentos Airbnb",
+    "Gorriti"
+   ],
+   "notas": "Constructor/desarrollador. Departamentos para Airbnb en Gorriti. Pendiente: apellido, cómo lo conoce y qué busca concretamente.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 60,
+   "proximoContacto": "2026-10-10",
+   "interacciones": [
+    {
+     "fecha": "2026-10-10",
+     "canal": "nota",
+     "nota": "Alta en la base con teléfono: constructor/desarrollador, deptos Airbnb en Gorriti."
+    }
+   ],
+   "updatedAt": "2026-10-10T15:00:00.000Z"
   }
  ],
- "updatedAt": "2026-10-10T17:20:00.000Z"
+ "updatedAt": "2026-10-10T15:00:00.000Z"
 }
