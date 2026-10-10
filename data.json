@@ -146,7 +146,7 @@
     "dropbox": "10 Propiedades Generales / Saavedra / Pinto 3575"
    },
    "contacto": {
-    "nombre": "Lucas",
+    "nombre": "Lucas Gaeta",
     "telefono": ""
    },
    "comentario": "Visita con Lucas a Pinto 3575. Está muy interesado; tiene que cerrarlo con la madre. En teoría el lunes va a tener definido. Escribirle el lunes 12/10.",
@@ -161,7 +161,7 @@
      "nota": "Visita realizada con Lucas a Pinto 3575. Muy interesado, define con la madre; el lunes 12/10 tendría la decisión. Recontactar el lunes."
     }
    ],
-   "updatedAt": "2026-10-10T16:10:00.000Z"
+   "updatedAt": "2026-10-10T16:20:00.000Z"
   }
  ],
  "contactos": [
@@ -862,5 +862,5 @@
    "updatedAt": "2026-09-11T17:00:00.000Z"
   }
  ],
- "updatedAt": "2026-10-10T16:10:00.000Z"
+ "updatedAt": "2026-10-10T16:20:00.000Z"
 }
