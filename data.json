@@ -134,6 +134,34 @@
    "calendarEventId": "p97b9c0e0np6omu1knfhh2h7io",
    "seguimiento": [],
    "updatedAt": "2026-10-02T16:59:39.000Z"
+  },
+  {
+   "id": "vlucas101026",
+   "fechaVisita": "2026-10-10",
+   "propiedad": {
+    "direccion": "Pinto 3575",
+    "localidad": "Saavedra, CABA",
+    "linkHoughton": "",
+    "linkTokko": "",
+    "dropbox": "10 Propiedades Generales / Saavedra / Pinto 3575"
+   },
+   "contacto": {
+    "nombre": "Lucas",
+    "telefono": ""
+   },
+   "comentario": "Visita con Lucas a Pinto 3575. Está muy interesado; tiene que cerrarlo con la madre. En teoría el lunes va a tener definido. Escribirle el lunes 12/10.",
+   "resultado": "positiva",
+   "calificacion": 4,
+   "recontactar": "2026-10-12",
+   "recontactado": false,
+   "calendarEventId": "9650jnbjarlfmi0crj1bknbta0",
+   "seguimiento": [
+    {
+     "fecha": "2026-10-10",
+     "nota": "Visita realizada con Lucas a Pinto 3575. Muy interesado, define con la madre; el lunes 12/10 tendría la decisión. Recontactar el lunes."
+    }
+   ],
+   "updatedAt": "2026-10-10T16:10:00.000Z"
   }
  ],
  "contactos": [
@@ -834,5 +862,5 @@
    "updatedAt": "2026-09-11T17:00:00.000Z"
   }
  ],
- "updatedAt": "2026-10-02T16:59:39.000Z"
+ "updatedAt": "2026-10-10T16:10:00.000Z"
 }
