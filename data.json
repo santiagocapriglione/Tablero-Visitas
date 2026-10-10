@@ -162,6 +162,90 @@
     }
    ],
    "updatedAt": "2026-10-10T16:20:00.000Z"
+  },
+  {
+   "id": "vmaria101026",
+   "fechaVisita": "2026-10-10",
+   "propiedad": {
+    "direccion": "Casa Perú",
+    "localidad": "",
+    "linkHoughton": "",
+    "linkTokko": "",
+    "dropbox": ""
+   },
+   "contacto": {
+    "nombre": "María Saeru",
+    "telefono": ""
+   },
+   "comentario": "Interesado/a en Casa Perú. Hacer seguimiento y estarle encima: recontactar el martes 13/10. Teléfono pendiente. Fecha de visita y dirección exacta a confirmar.",
+   "resultado": "positiva",
+   "calificacion": 3,
+   "recontactar": "2026-10-13",
+   "recontactado": false,
+   "calendarEventId": "q0p5vnonpdcemve6pia56r7ajg",
+   "seguimiento": [
+    {
+     "fecha": "2026-10-10",
+     "nota": "Santiago pide seguirlo de cerca por Casa Perú; recordatorio el martes 13/10 a las 10."
+    }
+   ],
+   "updatedAt": "2026-10-10T16:30:00.000Z"
+  },
+  {
+   "id": "vcamila101026",
+   "fechaVisita": "2026-10-10",
+   "propiedad": {
+    "direccion": "Casa Perú",
+    "localidad": "",
+    "linkHoughton": "",
+    "linkTokko": "",
+    "dropbox": ""
+   },
+   "contacto": {
+    "nombre": "Camila",
+    "telefono": ""
+   },
+   "comentario": "Interesado/a en Casa Perú. Hacer seguimiento y estarle encima: recontactar el martes 13/10. Teléfono pendiente. Fecha de visita y dirección exacta a confirmar.",
+   "resultado": "positiva",
+   "calificacion": 3,
+   "recontactar": "2026-10-13",
+   "recontactado": false,
+   "calendarEventId": "q0p5vnonpdcemve6pia56r7ajg",
+   "seguimiento": [
+    {
+     "fecha": "2026-10-10",
+     "nota": "Santiago pide seguirlo de cerca por Casa Perú; recordatorio el martes 13/10 a las 10."
+    }
+   ],
+   "updatedAt": "2026-10-10T16:30:00.000Z"
+  },
+  {
+   "id": "vsantiago101026",
+   "fechaVisita": "2026-10-10",
+   "propiedad": {
+    "direccion": "Casa Perú",
+    "localidad": "",
+    "linkHoughton": "",
+    "linkTokko": "",
+    "dropbox": ""
+   },
+   "contacto": {
+    "nombre": "Santiago Tatul (productor)",
+    "telefono": ""
+   },
+   "comentario": "Interesado/a en Casa Perú. Hacer seguimiento y estarle encima: recontactar el martes 13/10. Es productor (trae/acompaña interesados). Teléfono pendiente. Fecha de visita y dirección exacta a confirmar.",
+   "resultado": "positiva",
+   "calificacion": 3,
+   "recontactar": "2026-10-13",
+   "recontactado": false,
+   "calendarEventId": "q0p5vnonpdcemve6pia56r7ajg",
+   "seguimiento": [
+    {
+     "fecha": "2026-10-10",
+     "nota": "Santiago pide seguirlo de cerca por Casa Perú; recordatorio el martes 13/10 a las 10."
+    }
+   ],
+   "updatedAt": "2026-10-10T16:30:00.000Z"
   }
  ],
  "contactos": [
@@ -862,5 +946,5 @@
    "updatedAt": "2026-09-11T17:00:00.000Z"
   }
  ],
- "updatedAt": "2026-10-10T16:20:00.000Z"
+ "updatedAt": "2026-10-10T16:30:00.000Z"
 }
