@@ -167,17 +167,17 @@
    "id": "vmaria101026",
    "fechaVisita": "2026-10-10",
    "propiedad": {
-    "direccion": "Casa Perú",
-    "localidad": "",
+    "direccion": "Perú 934",
+    "localidad": "Acassuso",
     "linkHoughton": "",
     "linkTokko": "",
-    "dropbox": ""
+    "dropbox": "10 Propiedades Generales / Acassuso / Perú 934"
    },
    "contacto": {
     "nombre": "María Saa",
     "telefono": "+5491130120977"
    },
-   "comentario": "Interesado/a en Casa Perú. Hacer seguimiento y estarle encima: recontactar el martes 13/10. Teléfono pendiente. Fecha de visita y dirección exacta a confirmar.",
+   "comentario": "Interesado/a en Casa Perú. Hacer seguimiento y estarle encima: recontactar el martes 13/10. Fecha de visita a confirmar.",
    "resultado": "positiva",
    "calificacion": 3,
    "recontactar": "2026-10-13",
@@ -189,23 +189,23 @@
      "nota": "Santiago pide seguirlo de cerca por Casa Perú; recordatorio el martes 13/10 a las 10."
     }
    ],
-   "updatedAt": "2026-10-10T17:00:00.000Z"
+   "updatedAt": "2026-10-10T17:20:00.000Z"
   },
   {
    "id": "vcamila101026",
    "fechaVisita": "2026-10-10",
    "propiedad": {
-    "direccion": "Casa Perú",
-    "localidad": "",
+    "direccion": "Perú 934",
+    "localidad": "Acassuso",
     "linkHoughton": "",
     "linkTokko": "",
-    "dropbox": ""
+    "dropbox": "10 Propiedades Generales / Acassuso / Perú 934"
    },
    "contacto": {
     "nombre": "Camila",
     "telefono": "+5492236214092"
    },
-   "comentario": "Interesado/a en Casa Perú. Hacer seguimiento y estarle encima: recontactar el martes 13/10. Teléfono pendiente. Fecha de visita y dirección exacta a confirmar.",
+   "comentario": "Interesado/a en Casa Perú. Hacer seguimiento y estarle encima: recontactar el martes 13/10. Fecha de visita a confirmar.",
    "resultado": "positiva",
    "calificacion": 3,
    "recontactar": "2026-10-13",
@@ -217,23 +217,23 @@
      "nota": "Santiago pide seguirlo de cerca por Casa Perú; recordatorio el martes 13/10 a las 10."
     }
    ],
-   "updatedAt": "2026-10-10T17:00:00.000Z"
+   "updatedAt": "2026-10-10T17:20:00.000Z"
   },
   {
    "id": "vsantiago101026",
    "fechaVisita": "2026-10-10",
    "propiedad": {
-    "direccion": "Casa Perú",
-    "localidad": "",
+    "direccion": "Perú 934",
+    "localidad": "Acassuso",
     "linkHoughton": "",
     "linkTokko": "",
-    "dropbox": ""
+    "dropbox": "10 Propiedades Generales / Acassuso / Perú 934"
    },
    "contacto": {
     "nombre": "Santiago Tatool (productor)",
     "telefono": "+5491168803401"
    },
-   "comentario": "Interesado/a en Casa Perú. Hacer seguimiento y estarle encima: recontactar el martes 13/10. Es productor (trae/acompaña interesados). Teléfono pendiente. Fecha de visita y dirección exacta a confirmar.",
+   "comentario": "Interesado/a en Casa Perú. Hacer seguimiento y estarle encima: recontactar el martes 13/10. Es productor (trae/acompaña interesados). Fecha de visita a confirmar.",
    "resultado": "positiva",
    "calificacion": 3,
    "recontactar": "2026-10-13",
@@ -245,7 +245,7 @@
      "nota": "Santiago pide seguirlo de cerca por Casa Perú; recordatorio el martes 13/10 a las 10."
     }
    ],
-   "updatedAt": "2026-10-10T17:10:00.000Z"
+   "updatedAt": "2026-10-10T17:20:00.000Z"
   }
  ],
  "contactos": [
@@ -946,5 +946,5 @@
    "updatedAt": "2026-09-11T17:00:00.000Z"
   }
  ],
- "updatedAt": "2026-10-10T17:10:00.000Z"
+ "updatedAt": "2026-10-10T17:20:00.000Z"
 }
