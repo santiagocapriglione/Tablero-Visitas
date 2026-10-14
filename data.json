@@ -246,6 +246,34 @@
     }
    ],
    "updatedAt": "2026-10-10T17:20:00.000Z"
+  },
+  {
+   "id": "vpatricia141026",
+   "fechaVisita": "2026-10-14",
+   "propiedad": {
+    "direccion": "Vergara 2251",
+    "localidad": "",
+    "linkHoughton": "",
+    "linkTokko": "",
+    "dropbox": ""
+   },
+   "contacto": {
+    "nombre": "Patricia",
+    "telefono": ""
+   },
+   "comentario": "Visitó Vergara 2251. Ya vendió su casa de Martínez (tiene la plata disponible). Contactarla e incentivarla a hacer una oferta de compra interesante. Pendiente: teléfono y localidad de la propiedad.",
+   "resultado": "positiva",
+   "calificacion": 3,
+   "recontactar": "2026-10-16",
+   "recontactado": false,
+   "calendarEventId": "a56m0k08k1a2qsmgmu0pi6fsro",
+   "seguimiento": [
+    {
+     "fecha": "2026-10-14",
+     "nota": "Visita a Vergara 2251. Patricia vendió su casa de Martínez; empujarla a hacer una oferta de compra interesante. Recordatorio en Calendar el 16/10 a las 10."
+    }
+   ],
+   "updatedAt": "2026-10-14T16:05:00.000Z"
   }
  ],
  "contactos": [
@@ -975,5 +1003,5 @@
    "updatedAt": "2026-10-10T15:00:00.000Z"
   }
  ],
- "updatedAt": "2026-10-10T15:00:00.000Z"
+ "updatedAt": "2026-10-14T16:05:00.000Z"
 }
