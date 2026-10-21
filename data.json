@@ -1001,7 +1001,35 @@
     }
    ],
    "updatedAt": "2026-10-10T15:00:00.000Z"
+  },
+  {
+   "id": "cmatiaslipman211026",
+   "nombre": "Matías Lipman",
+   "telefono": "",
+   "email": "",
+   "relacion": "Representante de futbolistas",
+   "tipos": [
+    "oportunidades",
+    "negocios"
+   ],
+   "prioridad": "alta",
+   "temas": [
+    "inversiones de futbolistas",
+    "oportunidades"
+   ],
+   "notas": "Representante de futbolistas. Busca oportunidades de inversión (posible canal para colocar capital de sus representados). Pendiente: teléfono y cómo lo conoce.",
+   "ultimoContacto": "",
+   "frecuenciaDias": 45,
+   "proximoContacto": "2026-10-21",
+   "interacciones": [
+    {
+     "fecha": "2026-10-21",
+     "canal": "nota",
+     "nota": "Alta en la base como destacado: representante de futbolistas, busca oportunidades."
+    }
+   ],
+   "updatedAt": "2026-10-21T18:09:15.000Z"
   }
  ],
- "updatedAt": "2026-10-14T16:30:00.000Z"
+ "updatedAt": "2026-10-21T18:09:15.000Z"
 }
